@@ -6,7 +6,7 @@ void draw(){
   fill(160,160,160);
   ellipse(400,400,400,400);
   ellipse(400,300,350,350);
-  noStroke():
+  noStroke();
   ellipse(400,400,375,200);
 }
 
